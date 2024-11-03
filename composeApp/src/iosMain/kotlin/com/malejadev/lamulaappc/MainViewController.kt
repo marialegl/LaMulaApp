@@ -1,0 +1,5 @@
+package com.malejadev.lamulaappc
+
+import androidx.compose.ui.window.ComposeUIViewController
+
+fun MainViewController() = ComposeUIViewController { App() }
